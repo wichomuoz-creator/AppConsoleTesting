@@ -6,4 +6,4 @@ Console.WriteLine("Esto es una prueba de git v1");
 
 Console.WriteLine("Esto es una prueba de git v2");
 
-Console.WriteLine("¡Hola! Soy Wilson Muñoz")
+
